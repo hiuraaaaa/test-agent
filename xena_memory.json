@@ -14,6 +14,10 @@
     {
       "issue": "API interpretation glitch",
       "solution": "Read the terminal output (STDOUT) carefully, don't hallucinate based on prompt context."
+    },
+    {
+      "issue": "Pesan push mengandung file yang terhapus pasca stress test",
+      "solution": "Selalu jalankan audit file atau restore sebelum melakukan push final ke GitHub."
     }
   ],
   "current_year_in_system": 2026,
