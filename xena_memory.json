@@ -1,0 +1,21 @@
+{
+  "user": "Xena",
+  "location": "Wonosobo",
+  "project": "30 Modern HTML Pages (NEXUS)",
+  "lessons_learned": [
+    {
+      "issue": "Git init at root instead of project folder",
+      "solution": "CD into the correct folder first, then git init."
+    },
+    {
+      "issue": "Risk budget block (30 points)",
+      "solution": "Don't batch too many delete_file commands in one message."
+    },
+    {
+      "issue": "API interpretation glitch",
+      "solution": "Read the terminal output (STDOUT) carefully, don't hallucinate based on prompt context."
+    }
+  ],
+  "current_year_in_system": 2026,
+  "real_year_in_wonosobo": 2024
+}
